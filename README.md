@@ -1,14 +1,40 @@
-# Welcome to your Lovable project
+# Pixel Perfect Pixel Perfect
+
+Convert my provided design into a production-quality responsive website.
+
+Requirements:
+
+- Reproduce the design as closely as possible.
+
+- Match the layout, spacing, typography, colors, borders, shadows, buttons, cards, and navigation.
+
+- Make it responsive for desktop, tablet, and mobile.
+
+- Use reusable React components.
+
+- Keep the visual design consistent across all pages.
+
+- Use the provided images and assets rather than replacing them with generic placeholders.
+
+- Add working navigation between pages.
+
+- Do not redesign or change the visual style unless necessary for responsiveness.
+
+- Make the final result clean, modern, and production-ready.
+
+First analyze the design carefully, then implement it.
 
 This project was built with [Lovable](https://lovable.dev).
 
+**Live app**: https://preploop.lovable.app
+
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/e17f4c63-c412-4ced-9be1-3e4b4a8ae958).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +46,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
